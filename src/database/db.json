@@ -1,1 +1,86 @@
-{}
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Intraday Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 8999",
+      "original": "11999",
+      "imgpath": "/assets/Course-img/mentor.png",
+      "duration": "30 Days",
+      "url": "/intraday_trading_masterclass"
+    },
+    {
+      "id": 2,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    },
+    {
+      "id": 3,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    },
+    {
+      "id": 4,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    },
+    {
+      "id": 5,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    },
+    {
+      "id": 6,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    }
+  ],
+  "Cart": [
+    {
+      "id": 6,
+      "title": "Option Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 11999",
+      "original": "16999",
+      "imgpath": "/assets/Course-img/mentor2.png",
+      "duration": "60 Days",
+      "url": "/option_trading_masterclass"
+    },
+    {
+      "id": 1,
+      "title": "Intraday Trading Masterclass",
+      "subtitle": "(Live)",
+      "price": "₹ 8999",
+      "original": "11999",
+      "imgpath": "/assets/Course-img/mentor.png",
+      "duration": "30 Days",
+      "url": "/intraday_trading_masterclass"
+    }
+  ]
+}
