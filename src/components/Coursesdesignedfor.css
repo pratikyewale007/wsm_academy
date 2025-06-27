@@ -1,0 +1,46 @@
+.card-custom {
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: none;
+    border-radius: 10px;
+}
+
+.icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.bg-purple {
+    background-color: #d6c5f0;
+}
+
+.bg-green {
+    background-color: #cdecdb;
+}
+
+.bg-yellow {
+    background-color: #eceec0;
+}
+
+.bg-pink {
+    background-color: #e9c2cf;
+}
+
+.title-underline {
+    position: relative;
+    display: inline-block;
+}
+
+.title-underline::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 30%;
+    width: 40%;
+    height: 5px;
+    background: orange;
+    border-radius: 50px;
+}

@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+    background-color: #fff;
+}
+
+.card::before {
+    content: '';
+    background: url('') no-repeat top center;
+    background-size: contain;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 100%;
+    z-index: 0;
+}

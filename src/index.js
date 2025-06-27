@@ -1,13 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { RouterProvider } from 'react-router-dom';
+import Routing from './routing/Routing';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/react-bootstrap/dist/react-bootstrap.min.js";
+import 'bootstrap/dist/js/bootstrap.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={Routing}>
+
+    </RouterProvider>
   </React.StrictMode>
 );
 
