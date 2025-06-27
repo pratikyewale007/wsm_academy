@@ -7,7 +7,7 @@ import Coursesdesignedfor from '../components/Coursesdesignedfor'
 import Courses from '../components/Courses'
 import Mentor from '../components/Mentor'
 import Footer from '../components/Footer'
-import Img from '../shared/commondata'
+import Faqs from '../components/Faqs'
 
 const Home = () => {
     return (
@@ -19,6 +19,7 @@ const Home = () => {
             <Courses />
             <Coursesdesignedfor />
             <Mentor />
+            <Faqs />
             <Footer />
         </div>
     )

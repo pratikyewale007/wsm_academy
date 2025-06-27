@@ -42,7 +42,7 @@ const Aboutwsm = () => {
                     {/* Right Image Section */}
                     <div className="col-lg-5 text-center">
                         <img
-                            src={Img.girl}
+                            src={Img.screen3}
                             alt="student"
                             className="img-fluid shadow-lg"
                             style={{ height: '450px', width: '350px', borderRadius: '70px 10px 10px 10px ' }}

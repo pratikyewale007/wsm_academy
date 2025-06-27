@@ -34,6 +34,8 @@ const Coursesdesignedfor = () => {
 
             <div className='title text-center '>
                 <h1>Learn from the only Trader with verified P&L</h1>
+                <h6>Click on the link below to view verified PnL statement</h6>
+                <h3><a href='https://console.zerodha.com/verified/ed2afc9e'>https://console.zerodha.com/verified/ed2afc9e</a></h3>
             </div>
         </div>
     )

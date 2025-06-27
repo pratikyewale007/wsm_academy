@@ -4,7 +4,7 @@ import Img from '../shared/commondata'
 const Mentor = () => {
     return (
         <div>
-            <section className="py-5 py-md-3">
+            <section className="py-5 py-md-4">
                 <div className="container">
                     <h3 className="title">Know your <span style={{ color: '#437745' }}>mentor</span></h3>
                     <br />
