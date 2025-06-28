@@ -10,6 +10,7 @@ import Telegram_mentorship from "../pages/Programs/Telegram_mentorship";
 import Oneto1_mentorship from "../pages/Programs/Oneto1_mentorship";
 import Forex_trading from "../pages/Programs/Forex_trading";
 import Testimonials from "../pages/Testimonials";
+import Usercart from "../pages/user/Usercart";
 
 
 const Routing = createBrowserRouter([
@@ -26,7 +27,8 @@ const Routing = createBrowserRouter([
             { path: "telegram_mentorship", element: <Telegram_mentorship /> },
             { path: "one-1_mentorship", element: <Oneto1_mentorship /> }
         ]
-    }
+    },
+    {path:"usercart" , element:<Usercart/>}
 ])
 
 export default Routing;
